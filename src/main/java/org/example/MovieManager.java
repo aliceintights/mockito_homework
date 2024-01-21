@@ -9,7 +9,7 @@ public class MovieManager {
     }
 
     public MovieManager(int numberOfMovies) {
-        this.numberOfMoviesLimit = numberOfMovies;
+        this.numberOfMoviesLimit = numberOfMoviesLimit;
     }
 
     public void add(String title) {
